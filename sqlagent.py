@@ -65,10 +65,9 @@ If a query fails due to syntax or column errors:
 
 To start you should ALWAYS look at the tables in the database to see what you can query. Do NOT skip this step.
 
-Use only the returned resuto formulate your final answer.
+Use only the returned result to formulate your final answer.
 
 #LAST STEP
-
 Upon answering check what user has asked and what u should answer it, do not given irrelevant details.
 You are now ready to answer any SQL-related question about this database.
 """
