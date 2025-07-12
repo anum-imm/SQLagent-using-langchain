@@ -10,7 +10,10 @@ main.py            # Entry point for running the SQL agent
 requirements.txt
 sqlagent.py        # Core implementation of SQL agent logic
 testss/
+
 ├── main2.py       # Alternate/experimental script
+
+
 ├── tests.py       # Test scripts
 tool.py
 
