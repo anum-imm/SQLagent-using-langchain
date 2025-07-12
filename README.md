@@ -21,19 +21,22 @@ testss/
 tool.py
 
 
-✅ The main working code is in:
+✅ **The main working code is in:**
+- `main.py` — script to run the SQL agent
+- `sqlagent.py` — implementation of SQL agent functionality
 
-main.py — script to run the SQL agent
+---
 
-sqlagent.py — implementation of SQL agent functionality
+## 🚀 **Features**
+- Query a SQL database using natural language
+- Get the schema of specific tables
+- Execute SQL queries safely
+- Gracefully handle missing tables or errors
+- Supports schema introspection
 
-🚀 Features
-Query a SQL database using natural language
+---
 
-Get schema of specific tables
-
-Execute SQL queries safely
-
-Handles missing tables or errors gracefully
-
-Supports schema introspection
+## 📦 **Setup**
+1. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt
